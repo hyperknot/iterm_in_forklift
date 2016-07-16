@@ -1,7 +1,6 @@
 # iterm_in_forklift
 
-Use iTerm2 3.x in ForkLift
-
+Open iTerm2 3.x as terminal in ForkLift
 
 ## Installation
 
