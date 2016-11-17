@@ -1,4 +1,4 @@
-# iterm_in_forklift
+# Open iTerm in ForkLift
 
 Open iTerm2 3.x as terminal in ForkLift
 
